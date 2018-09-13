@@ -5093,6 +5093,11 @@
       "category": "uitableview",
       "description": "Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.",
       "homepage": "https://github.com/tsucres/SwiftyComments"
-    }
+    }, {
+      "title": "AppSpector",
+      "category": "logging",
+      "description": "Remote iOS and Android debugging and data collection service. You can debug networking, logs, CoreData, SQLite, NSNotificationCenter and mock device's geo location.",
+      "homepage": "https://appspector.com"
+    }	     
   ]
 }
